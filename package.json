@@ -1,0 +1,9 @@
+{
+  "name": "clearnight.github.io",
+  "version": "0.1.0",
+  "description": "Homepage for the ClearNight family of themes",
+  "main": "index.js",
+  "repository": "git@github.com:clearnight/clearnight.github.io",
+  "author": "Jade Thornton <jade@jmthornton.net>",
+  "license": "MIT"
+}
